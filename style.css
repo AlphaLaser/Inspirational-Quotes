@@ -1,0 +1,35 @@
+html {
+  			margin:0px;
+  			height:100%;
+}
+body {
+			background-color: transparent;
+			padding: 10px;
+  			height:500px;
+  			padding-bottom: 40px ; 
+}
+.myDiv {
+			border-radius: 10px ;
+		  padding : 10px;
+		  height: 500px;
+		  width: 400px;
+		  background-color: #FFCB72;
+		  text-align: center;
+}
+
+p{
+			text-align: center;
+			font-family: 'Poppins', sans-serif;
+			font-size: 15px;
+			color: #6D6D6D ;
+
+}
+
+img{
+			width:300px;
+			height: auto ;
+}
+
+h2 {
+			font-family: 'Poppins', sans-serif;
+}
