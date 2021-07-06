@@ -1,8 +1,13 @@
 # Inspirational-Quotes
-<br>
+
 A chrome extension that will give you an inspirational quote every time you click on it.
 
-<img src = "trial.jpeg">
+<br>
+
+  
+![trial](https://user-images.githubusercontent.com/59497243/124646095-da6baf00-deb1-11eb-8741-2b8430c9defc.JPG)
+
+
 <br><br>
 
 
