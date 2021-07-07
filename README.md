@@ -18,7 +18,7 @@ A chrome extension that will give you an inspirational quote every time you clic
 - Go to chrome://extensions
 - Toggle the 'Developer Mode' option on the top right of the page
 - Click on 'Load Unpacked'
-- Select the folder with the extracter contents
+- Select the folder with the extracted contents
 - Use the Extensions and get inspired every time you click on it !
 
 
